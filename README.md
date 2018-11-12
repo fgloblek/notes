@@ -1,7 +1,7 @@
 ### Lecture notes
 
-- taken mostly @ SISSA since November 2018
+- taken mostly @ SISSA from November 2018
 - xournal & stylus
 - todo:
-  - digitalize notes taken since October 
+  - digitalize notes taken fr October 
   - provide structure and meaning to this collection (& to my life)
